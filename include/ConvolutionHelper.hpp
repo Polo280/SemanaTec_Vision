@@ -7,4 +7,7 @@ class Convolution_Helper{
 
         static cv::Mat_<float> getConvolutionType(void);
         static cv::Mat applyConvolution(const cv::Mat& image, const cv::Mat& kernel);
+
+        // Padding
+        static cv::Mat applyPadding(const cv::Mat& image, const cv::Mat& kernel);
 };
