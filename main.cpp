@@ -25,5 +25,7 @@ int main(){
     cv::imshow("Test", output_conv);
     cv::waitKey(0);
 
+    cv::imwrite("../Tests/laplacian.jpg", output_conv);
+
     return EXIT_SUCCESS;
 }

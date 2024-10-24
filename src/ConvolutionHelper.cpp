@@ -26,8 +26,10 @@ cv::Mat_<float> Convolution_Helper::getConvolutionType(void){
     std::cout << "Select convolution type:\n";
     std::cout << "0 = Gaussian Blur\n1 = Sharpening\n2 = Laplacian edge detect\n";
 
+    std::cout << "Your choice: ";
     int index = 0;
     std::cin >> index; 
+    std::cout << "\n";
     return convolution_types.at(index);
 }
 
