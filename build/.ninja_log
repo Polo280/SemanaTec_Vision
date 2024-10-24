@@ -1,0 +1,18 @@
+# ninja log v6
+6	74	7513141465416289	C:/Users/jorgl/OneDrive/Escritorio/SemanaTec_Vision/build/CMakeFiles/cmake.verify_globs	2dea447797eb338
+87	3380	7513141466147745	CMakeFiles/SemanaTec_Vision.dir/main.cpp.obj	1dad4cb906f1029
+137	752	7513116406024645	CMakeFiles/SemanaTec_Vision.dir/src/ConvolutionHelper.cpp.obj	ec6cdc3350762a27
+3380	3775	7513141499086767	SemanaTec_Vision.exe	6942ee0a3a3155
+6	491	7513163679758378	C:/Users/jorgl/OneDrive/Escritorio/SemanaTec_Vision/build/CMakeFiles/cmake.verify_globs	2dea447797eb338
+506	3767	7513163684789658	CMakeFiles/SemanaTec_Vision.dir/main.cpp.obj	1dad4cb906f1029
+3768	4110	7513163717330913	SemanaTec_Vision.exe	6942ee0a3a3155
+7	64	7513163842158527	C:/Users/jorgl/OneDrive/Escritorio/SemanaTec_Vision/build/CMakeFiles/cmake.verify_globs	2dea447797eb338
+75	2558	7513163842854136	CMakeFiles/SemanaTec_Vision.dir/main.cpp.obj	1dad4cb906f1029
+2558	2875	7513163867665821	SemanaTec_Vision.exe	6942ee0a3a3155
+5	63	7513167364116367	C:/Users/jorgl/OneDrive/Escritorio/SemanaTec_Vision/build/CMakeFiles/cmake.verify_globs	2dea447797eb338
+73	2601	7513167364793031	CMakeFiles/SemanaTec_Vision.dir/main.cpp.obj	1dad4cb906f1029
+2602	3647	7513167390080509	SemanaTec_Vision.exe	6942ee0a3a3155
+4	60	7513173894757029	C:/Users/jorgl/OneDrive/Escritorio/SemanaTec_Vision/build/CMakeFiles/cmake.verify_globs	2dea447797eb338
+34	175	7513355526515006	C:/Users/jorgl/OneDrive/Escritorio/SemanaTec_Vision/build/CMakeFiles/cmake.verify_globs	2dea447797eb338
+296	5209	7513355529134963	CMakeFiles/SemanaTec_Vision.dir/main.cpp.obj	1dad4cb906f1029
+5210	6090	7513355578274860	SemanaTec_Vision.exe	6942ee0a3a3155
