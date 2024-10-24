@@ -1,3 +1,0 @@
-C:/Users/jorgl/OneDrive/Escritorio/SemanaTec_Vision/CMakeFiles/SemanaTec_Vision.dir
-C:/Users/jorgl/OneDrive/Escritorio/SemanaTec_Vision/CMakeFiles/edit_cache.dir
-C:/Users/jorgl/OneDrive/Escritorio/SemanaTec_Vision/CMakeFiles/rebuild_cache.dir

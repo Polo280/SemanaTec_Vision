@@ -1,5 +1,6 @@
 #include <iostream>
 #include <opencv2/opencv.hpp>
+#include <ConvolutionHelper.hpp>
 
 int main(){
     std::cout << cv::getBuildInformation() << std::endl;
@@ -9,8 +10,10 @@ int main(){
         std::cerr << "Image file couldnt be found\n";
     }else{
         std::cout << "Everything okay!\n";
-        // cv::imshow("Image Test", test_img);
-        // cv::waitKey(0);
     }
+
+    // Convolution test 
+    std::cout << Convolution_Helper::getConvolutionType();
+
     return EXIT_SUCCESS;
 }

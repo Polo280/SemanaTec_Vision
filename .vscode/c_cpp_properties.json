@@ -4,7 +4,9 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "C:/opencv/build/include"
+                "/usr/include",
+                "/usr/include/opencv4",
+                "/home/squirreldj/Desktop/SemanaTec_Vision/include"
             ],
             "defines": [
                 "_DEBUG",

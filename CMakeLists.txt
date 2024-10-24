@@ -2,8 +2,8 @@ cmake_minimum_required(VERSION 3.10)
 
 project(SemanaTec_Vision VERSION 1.0)
 
-include_directories("C:/opencv/build")
-find_package(OPENCV REQUIRED)
+set(OpenCV_DIR "/usr/local/lib/cmake/opencv4")
+find_package(OpenCV REQUIRED)
 
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
